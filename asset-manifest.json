@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.925e24c8.css",
-    "main.js": "/static/js/main.4680d63e.js",
+    "main.js": "/static/js/main.95783295.js",
     "static/media/heroImage.png": "/static/media/heroImage.b47632d06527677b7b03.png",
     "static/media/helpriskgroup.JPG": "/static/media/helpriskgroup.9d563fd7399a6ee0dbc1.JPG",
     "static/media/datingapp.JPG": "/static/media/datingapp.6c640df5f08d7034d6e2.JPG",
@@ -19,10 +19,10 @@
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
     "main.925e24c8.css.map": "/static/css/main.925e24c8.css.map",
-    "main.4680d63e.js.map": "/static/js/main.4680d63e.js.map"
+    "main.95783295.js.map": "/static/js/main.95783295.js.map"
   },
   "entrypoints": [
     "static/css/main.925e24c8.css",
-    "static/js/main.4680d63e.js"
+    "static/js/main.95783295.js"
   ]
 }
