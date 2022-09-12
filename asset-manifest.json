@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.925e24c8.css",
-    "main.js": "/static/js/main.0adc84da.js",
+    "main.css": "/static/css/main.dcfe7a91.css",
+    "main.js": "/static/js/main.6d1ffa70.js",
     "static/media/heroImage.png": "/static/media/heroImage.b47632d06527677b7b03.png",
     "static/media/helpriskgroup.JPG": "/static/media/helpriskgroup.9d563fd7399a6ee0dbc1.JPG",
     "static/media/datingapp.JPG": "/static/media/datingapp.6c640df5f08d7034d6e2.JPG",
@@ -11,6 +11,7 @@
     "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
     "static/media/sqlserver.PNG": "/static/media/sqlserver.ae2d584823470420b962.PNG",
+    "static/media/oracle.png": "/static/media/oracle.a5f61773c5f554a5d864.png",
     "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
     "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
     "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
@@ -18,11 +19,11 @@
     "static/media/express.png": "/static/media/express.1182731d0fa4994589eb.png",
     "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
     "index.html": "/index.html",
-    "main.925e24c8.css.map": "/static/css/main.925e24c8.css.map",
-    "main.0adc84da.js.map": "/static/js/main.0adc84da.js.map"
+    "main.dcfe7a91.css.map": "/static/css/main.dcfe7a91.css.map",
+    "main.6d1ffa70.js.map": "/static/js/main.6d1ffa70.js.map"
   },
   "entrypoints": [
-    "static/css/main.925e24c8.css",
-    "static/js/main.0adc84da.js"
+    "static/css/main.dcfe7a91.css",
+    "static/js/main.6d1ffa70.js"
   ]
 }
